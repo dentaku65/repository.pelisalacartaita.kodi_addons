@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.t1m.addons" name="t1m Add-on Repository" version="0.0.1" provider-name="dentaku65">
+	<extension point="xbmc.addon.repository" name="Pelisalacarta italian channels repack">
+		<info compressed="true">https://raw.githubusercontent.com/dentaku65/repository.pelisalacartaita/master/addon.xml</info>
+		<checksum>https://raw.githubusercontent.com/dentaku65/repository.pelisalacartaita/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/dentaku65/repository.pelisalacartaita/master/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">Movies and TV Shows Italian channels repack</summary>
+		<description lang="en">Pelisalacarta with italian channels repack: Zanzibar82, dentaku65, Dr-Zer0 and fenice82. BIG thanks: robalo, jesus</description>
+		<platform>all</platform>
+	</extension>
+</addon>
