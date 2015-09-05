@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.pelisalacartaita.kodi_addons" name="Pelisalacarta Italian channels repack" version="0.0.1" provider-name="dentaku65">
+<addon id="repository.pelisalacartaita.kodi_addons" name="Pelisalacarta Italian channels" version="0.0.1" provider-name="dentaku65">
 	<extension point="xbmc.addon.repository" name="Pelisalacarta italian channels repack">
 		<info compressed="true">https://raw.githubusercontent.com/dentaku65/repository.pelisalacartaita/master/addon.xml</info>
 		<checksum>https://raw.githubusercontent.com/dentaku65/repository.pelisalacartaita/master/addons.xml.md5</checksum>
